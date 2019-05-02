@@ -15,3 +15,5 @@ Recargar: Aumenta en el numero especificado el dinero del usuario especificado.
 Rehabastecer: Aumenta en el numero especificado, la cantidad de productos especificados.
 Pago: Basicamente se le quita dinero al usuario y se le quita una unidad del tipo especificado a la sucursal especificada.
 
+David Omar Enriquez Reyes - 201602744
+Ricardo Antonio Alvarado Ramirez - 201603157
